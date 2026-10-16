@@ -1,0 +1,27 @@
+{
+  "container.tool_wheel.belt": "工具轮盘",
+  "gui.tool_wheel.expand": "展开工具栏",
+  "gui.tool_wheel.collapse": "收起工具栏",
+  "gui.tool_wheel.back_to_inventory": "物品栏",
+  "gui.tool_wheel.wheel_title": "工具轮盘",
+  "gui.tool_wheel.empty_slot": "空",
+  "gui.tool_wheel.in_hand": "手持中",
+  "gui.tool_wheel.holster": "收回",
+  "key.categories.tool_wheel": "工具轮盘",
+  "key.tool_wheel.wheel": "工具轮盘（按住）",
+  "key.tool_wheel.open": "打开工具轮盘界面",
+  "tool_wheel.configuration.title": "工具轮盘配置",
+  "tool_wheel.configuration.section.tool.wheel.common.toml": "通用设置",
+  "tool_wheel.configuration.section.tool.wheel.common.toml.title": "通用设置",
+  "tool_wheel.configuration.section.tool.wheel.server.toml": "存档轮盘设置",
+  "tool_wheel.configuration.section.tool.wheel.server.toml.title": "存档轮盘设置",
+  "tool_wheel.configuration.gameplay": "玩法规则",
+  "tool_wheel.configuration.gameplay.tooltip": "与死亡掉落等玩法相关的通用规则",
+  "tool_wheel.configuration.keepBeltOnDeath": "死亡保留轮盘物品",
+  "tool_wheel.configuration.keepBeltOnDeath.tooltip": "开启后，死亡时工具轮盘内的工具与弹药始终保留，不受 keepInventory 游戏规则影响。",
+  "tool_wheel.configuration.belt": "轮盘容量",
+  "tool_wheel.configuration.belt.tooltip": "调整工具轮盘槽位的数量（4 ~ 8 格）",
+  "tool_wheel.configuration.toolSlots": "工具槽数量",
+  "tool_wheel.configuration.toolSlots.tooltip": "轮盘上的工具槽数量（4 ~ 8 格，弹药槽额外固定 1 格且上限 256 支箭）。\n调小后，多余槽位中的物品会自动退回背包（背包满则掉落在脚下）。"
+}
+

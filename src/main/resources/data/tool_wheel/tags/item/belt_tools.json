@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:pickaxes",
+    "#minecraft:axes",
+    "#minecraft:shovels",
+    "#minecraft:hoes",
+    "#minecraft:swords",
+    "#minecraft:enchantable/bow",
+    "#minecraft:enchantable/crossbow",
+    "#minecraft:enchantable/weapon",
+    "#minecraft:enchantable/mining",
+    "#minecraft:enchantable/trident",
+    "#minecraft:enchantable/mace",
+    { "id": "c:tools/bows", "required": false },
+    { "id": "c:tools/crossbows", "required": false },
+    { "id": "c:tools/shields", "required": false },
+    { "id": "c:weapons", "required": false },
+    "minecraft:shears",
+    "minecraft:flint_and_steel",
+    "minecraft:fishing_rod",
+    "minecraft:brush",
+    "minecraft:spyglass",
+    "minecraft:bow",
+    "minecraft:crossbow",
+    "minecraft:trident",
+    "minecraft:mace",
+    "minecraft:shield"
+  ]
+}
